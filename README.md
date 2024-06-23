@@ -9,5 +9,5 @@
 [![Skills](https://skillicons.dev/icons?i=py,ts,js,go,html,css,mysql,postgres,mongodb,redis,sqlite,docker)](https://skillicons.dev)<br>
 
 ## ⚡ My Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nykoos&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nykoos&theme=transparent)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nykoos&show_icons=true&theme=transparent&count_private=true&hide_border=true&line_height=20)
+![Github Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=a&theme=transparent&hide_border=true&count_private=true&layout=compact)
