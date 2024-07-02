@@ -10,4 +10,4 @@
 
 ## ⚡ My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nykoos&show_icons=true&theme=transparent&count_private=true&hide_border=true&line_height=20)
-![Github Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=a&theme=transparent&hide_border=true&count_private=true&layout=compact)
+![Github Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nykoos&theme=transparent&hide_border=true&count_private=true&layout=compact)
